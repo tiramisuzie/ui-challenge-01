@@ -1,0 +1,70 @@
+
+div, header, footer {
+  border-width:2px;
+  border-style:solid;
+  border-color:black;
+}
+@media (max-width: 768px) {
+#a {
+  background-color: coral;
+  width:480px;
+  height:75px;
+}
+
+#b {
+  background-color: aqua;
+  width:480px;
+  height:150px;
+
+}
+
+#c {
+  background-color: aquamarine;
+  width:480px;
+  height:125px;
+}
+
+#d {
+  background-color: pink;
+  width:480px;
+  height:125px;
+}
+
+#e{
+  background-color: purple;
+  width:240px;
+  height:250px;
+}
+
+#f{
+  background-color: cyan;
+  width:240px;
+  height:250px;
+}
+
+#g{
+  background-color: salmon;
+  width:240px;
+  height:250px;
+}
+
+#h {
+  background-color: cornflowerblue;
+  width:240px;
+  height:250px;
+}
+
+#i{
+  background-color: violet;
+  width:480px;
+  height:80px;
+}
+
+.efcontainer {
+  display: flex;
+}
+
+.ghcontainer {
+  display: flex;
+}
+}
